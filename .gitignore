@@ -1,0 +1,7 @@
+*.hbp
+*.hbi
+*.html
+*.json
+*.sha256
+node_modules/
+office-feed*
