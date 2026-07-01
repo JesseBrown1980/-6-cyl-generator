@@ -50,6 +50,19 @@ tables below to see where you are; follow the links to walk the rest.
 | `-6-cyl-generator` | satellite generator |
 | `asolaria-whiteroom-engine` · `35-TB-google-AI-Ultra-migration` | (= LEG-1 + LEG-4, listed under External legs) |
 
+## Prism/Comb 0-loss (2026-07-01) — satellite entry for this repo (`-6-cyl-generator`)
+Campaign law: every prism/comb step is a **bijection** — entropy is invariant (`H(f(X)) = H(X)`); the fabric
+re-relates with 0 loss, never claims compression below Shannon. This generator's fold is a local instance:
+`bh_index ⇄ (cylinder_phase, cylinder_ring)` is the divmod bijection, exactly recombined as
+`bh_index = 6·ring + phase` — comb forward = 6 isolated cylinder lanes, prism backward = exact reassembly,
+no residue lost (math principle). The 6-way partition sits on the **rule-of-three ternary subdivision**
+(comb layer 3: `6 = 2·3`, `watcher_lane = lane % 3` = the ternary teeth) — spine [5]'s
+brown-hilbert × prime × rule-of-three discipline. **Cylinders ≠ levels** (claims-gate scenario 4): this repo
+folds **6 cylinders**; the v2 atlas's `Z=0..15` is **16 levels**, not 16 cylinders — count them separately.
+Scope: only the 256↔1024 rung is MEASURED (Q-PRISM `53023b6`, round-trip sha256-identical); the 43+ ladder is
+CANON frame; unproven rungs stay UNVERIFIED. E=0 docs/map only. Cross-links: Q-PRISM `53023b6`/`79e8d63`/
+`de00aca` · waves-cascades (duality) · what-is-asolaria (boundary) · N-Nest (integrity dual) · Metatagging.
+
 ## Current state & evolution (2026-06-28) — read this, don't flatten it
 Asolaria is a **2.5-month archaeology**, not a flat stack. **Capability lineage:** auto-approval switch →
 dashboard → multi-agent → local+web MCP + code-wiki → index language (pixels-first) → cubes-as-catalogs
